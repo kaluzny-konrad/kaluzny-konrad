@@ -3,6 +3,7 @@
 
 My actual level on CodeWars:
 https://www.codewars.com/users/kaluzny-konrad
+
 ![codewards bagde](https://www.codewars.com/users/kaluzny-konrad/badges/small)
 
 <!---
