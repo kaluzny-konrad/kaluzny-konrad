@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/58b1ae711fcffa34090000ea/
+
 function door(events) {
   let doorState = new DoorState();
   for (const event of events) {
