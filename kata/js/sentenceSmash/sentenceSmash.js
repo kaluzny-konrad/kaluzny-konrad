@@ -2,14 +2,14 @@
 
 function smash (words) {
     let sentence = "";
-
-    for (const index in words) {
-        let word = words[index];
-        if(index > 0) sentence += " ";
-        sentence += word;
-    }
-    
+    for (const index in words)
+        sentence += getWord(words[index], index);
     return sentence;
 };
+
+function getWord(word, index) {
+    if(index > 0) return " " + word;
+    else return word;
+}
 
 module.exports = smash;
