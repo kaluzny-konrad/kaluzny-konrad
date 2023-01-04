@@ -1,19 +1,14 @@
 package kata
 
-func ReverseWords(str string) (result string) {
-	toReverse := ""
-	for i := 0; i < len(str); i++ {
-		char := string(str[i])
-		if char == " " {
-			result += reverse(toReverse)
-			toReverse = ""
-			result += char
-		} else {
-			toReverse += char
-		}
+import "strings"
+
+func ReverseWords(str string) string {
+	words := strings.Split(str, " ")
+	for i, v := range words {
+		words[i] = reverse(string(v))
 	}
-	result += reverse(toReverse)
-	return
+
+	return strings.Join(words, " ")
 }
 
 func reverse(str string) (result string) {
