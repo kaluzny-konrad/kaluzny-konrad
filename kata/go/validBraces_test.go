@@ -15,9 +15,13 @@ func singleTest(str string, res bool) {
 }
 
 var _ = Describe("Valid Braces", func() {
+	singleTest("[({)](]", false)
+
+	singleTest("(({[]{()}}[{(())}[]]))", true)
+	singleTest("[[]((){}){}(){}]", true)
+
 	singleTest("(){}[]", true)
 	singleTest("([{}])", true)
 	singleTest("(}", false)
 	singleTest("[(])", false)
-	singleTest("[({)](]", false)
 })
