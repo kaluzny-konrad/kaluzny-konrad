@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaluzny-konrad
-- 🌱 I’m currently learning C#, Java, Python
+- 🌱 I’m currently learning web frameworks and solutions (.NET, Angular, Vue, Golang).
 
 My actual level on CodeWars:
 https://www.codewars.com/users/kaluzny-konrad
