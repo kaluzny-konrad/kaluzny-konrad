@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataCsharp", "KataCsharp\KataCsharp.csproj", "{3D22C660-8CFD-4FC5-86AC-BD84D26E30AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataCsharp.NUnitTests", "KataCsharp.NUnitTests\KataCsharp.NUnitTests.csproj", "{2B2D65F0-1B32-4AD4-B85D-3AA99637E854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D22C660-8CFD-4FC5-86AC-BD84D26E30AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D22C660-8CFD-4FC5-86AC-BD84D26E30AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D22C660-8CFD-4FC5-86AC-BD84D26E30AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D22C660-8CFD-4FC5-86AC-BD84D26E30AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2D65F0-1B32-4AD4-B85D-3AA99637E854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2D65F0-1B32-4AD4-B85D-3AA99637E854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2D65F0-1B32-4AD4-B85D-3AA99637E854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2D65F0-1B32-4AD4-B85D-3AA99637E854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F6BA2C-A181-4729-B53D-6846D599BC04}
+	EndGlobalSection
+EndGlobal
