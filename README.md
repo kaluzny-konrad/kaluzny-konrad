@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaluzny-konrad
-- 🌱 I’m currently learning diffrent frameworks for e2e testing (Playwright, Cypress, Cucumber, etc).
+- 🌱 I’m currently learning diffrent frameworks for e2e testing.
 
 My actual level on CodeWars:
 https://www.codewars.com/users/kaluzny-konrad
