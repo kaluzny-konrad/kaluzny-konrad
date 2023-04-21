@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @kaluzny-konrad
+- 🛠️ I'm currently working on private projects outside GitHub.
 - 🌱 I’m currently learning diffrent frameworks for e2e testing.
-
-My actual level on CodeWars:
-https://www.codewars.com/users/kaluzny-konrad
-
-![codewards bagde](https://www.codewars.com/users/kaluzny-konrad/badges/small)
 
 My languages:
 - C# ✨
@@ -29,6 +25,11 @@ My languages:
 - React 🌱
 - Python
 - Go
+
+
+CodeWars:
+https://www.codewars.com/users/kaluzny-konrad
+![codewards bagde](https://www.codewars.com/users/kaluzny-konrad/badges/small)
 
 <!---
 kaluzny-konrad/kaluzny-konrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
