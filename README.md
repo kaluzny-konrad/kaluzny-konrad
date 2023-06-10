@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaluzny-konrad
-- 🛠️ I'm currently working on private projects outside GitHub.
-- 🌱 I’m currently learning diffrent frameworks for e2e testing.
+- 🌱 I'm currently learning new frameworks from courses.
+- ✨ I have the greatest experience in the Selenium Framework and C#
 
 My languages:
 - C# ✨
@@ -22,7 +22,7 @@ My languages:
 - .NET
 - Angular 🌱
 - Svelte 🌱❤️
-- React 🌱
+- React 🌱❤️
 - Python
 - Go
 
