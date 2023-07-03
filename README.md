@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaluzny-konrad
-- 🌱 I'm currently learning new frameworks from courses.
+- 📖 I'm currently learning new frameworks from courses.
 - ✨ I have the greatest experience in the Selenium Framework and C#
 
 My languages:
@@ -20,9 +20,9 @@ My languages:
 - HTML, CSS
 - JavaScript
 - .NET
-- Angular 🌱
-- Svelte 🌱❤️
-- React 🌱❤️
+- Angular
+- Svelte ❤️
+- React 📖❤️
 - Python
 - Go
 
