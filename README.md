@@ -26,8 +26,6 @@ My languages:
 - Python
 - Go
 
-Old graphic design portfolio: https://konradkaluzny.portfoliobox.net/
-
 CodeWars:
 https://www.codewars.com/users/kaluzny-konrad
 ![codewards bagde](https://www.codewars.com/users/kaluzny-konrad/badges/small)
