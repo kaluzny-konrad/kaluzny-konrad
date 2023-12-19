@@ -1,28 +1,30 @@
 - 👋 Hi, I’m @kaluzny-konrad
-- 📖 I'm currently learning new frameworks from courses.
+- 📖 I'm currently learning React with Next.js.
 - ✨ I have the greatest experience in the Selenium Framework and C#
 
 My languages:
-- C# ✨
+- React with Next.js 📖❤️
 - TypeScript ❤️
+- TailwindCSS ❤️
+- C# ✨
+- .NET ✨
 - Selenium ✨
-- Cypress
-- Playwright ❤️
-- Puppeter
-- Postman
-- JMeter
+- NUnit ✨
 - Azure
 - T-SQL
+- Postman
 - GIT
+- Playwright
+- Cypress
+- Puppeter
+- JMeter
 - MS Alerts
 - KQL (Kusto)
 - LogicApps
 - HTML, CSS
 - JavaScript
-- .NET
 - Angular
-- Svelte ❤️
-- React 📖❤️
+- Svelte
 - Python
 - Go
 
