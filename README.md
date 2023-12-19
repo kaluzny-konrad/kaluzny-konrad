@@ -31,7 +31,8 @@ My languages:
 CodeWars:
 https://www.codewars.com/users/kaluzny-konrad
 ![codewards bagde](https://www.codewars.com/users/kaluzny-konrad/badges/small)
-![LinkedIn](https://www.linkedin.com/in/konrad-kaluzny/?locale=en_US)
+
+LinkedIn: https://www.linkedin.com/in/konrad-kaluzny/?locale=en_US
 
 <!---
 kaluzny-konrad/kaluzny-konrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
