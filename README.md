@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kaluzny-konrad
 - 📖 I'm currently learning React with Next.js.
-- ✨ I have the greatest experience in the Selenium Framework and C#
 
 My languages:
 - React with Next.js 📖❤️
